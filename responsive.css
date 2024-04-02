@@ -1,0 +1,295 @@
+@media only screen and (min-width: 990px){
+ /* udalosti nad 990 pixelov šírky */
+
+
+
+}
+
+@media only screen and (max-width: 990px){
+    /* udalosti pod 990 pixelov šírky */
+   
+   
+   
+   }
+
+
+
+   /******************************************************/
+
+
+   @media only screen and (max-width: 1300px){
+    .galleryFrame{
+      width: 30%;
+      margin-top: 2px;
+      margin-left: 2px;
+      margin-right: 2px;
+    }
+
+    #mixes img{
+      width: 12%;
+      height: 12%;
+      margin-right: 2px; 
+      margin-left: 2px;
+      margin-top: 1px;
+      margin-bottom: 1px;
+    }
+   }
+
+
+
+   @media only screen and (max-width: 1200px){
+    #preview{
+      height: 200px;
+    }
+    #mixes img{
+      width: 16%;
+      height: 16%;
+      margin-right: 2px; 
+      margin-left: 2px;
+      margin-top: 1px;
+      margin-bottom: 1px;
+    }
+   }
+
+
+
+
+   @media only screen and (max-width: 1100px){
+    /* udalosti pod 1150 pixelov šírky */
+    .galleryFrame{
+      width: 48%;
+      margin-top: 2px;
+      margin-left: 2px;
+      margin-right: 2px;
+    }
+   
+   }
+
+
+
+
+
+
+
+   @media only screen and (max-width: 840px){
+      header nav ul li{
+        font-size: 15px;
+      }
+      #mixes img{
+        width: 19%;
+        height: 19%;
+        margin-right: 2px; 
+        margin-left: 2px;
+        margin-top: 1px;
+        margin-bottom: 1px;
+      }
+   }
+
+   @media only screen and (max-width: 770px){
+    /* udalosti pod 770 pixelov šírky */
+    .mixInfo p {
+        font-size: 12px;
+      }
+
+      #links img{
+        margin-left: 15px;
+        margin-right: 15px;
+      }
+   }
+
+
+   @media only screen and (max-width: 668px){
+    #links img{
+        width: 70px;
+        height: 70px;
+      }
+
+      #links{
+        height: 100px;
+      }
+
+      #biography p{
+        color:#222;
+        margin: 0 auto;
+        max-width: 980px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: justify;
+        line-height: 13px;
+        font-size: 12px;
+      }
+
+      #biography h2{
+        font-size: 20px;
+      }
+
+      .galleryFrame{
+        width: 95%;
+        margin-top: 2px;
+        margin-left: 2px;
+        margin-right: 2px;
+      }
+
+      #mixes img{
+        width: 30%;
+        height: 30%;
+        margin-right: 2px; 
+        margin-left: 2px;
+        margin-top: 1px;
+        margin-bottom: 1px;
+      }
+
+
+   }
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 630px) {
+    nav{
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-right: 10px;
+    }
+
+    nav ul li {
+        display: none;
+    }
+
+
+
+    header{
+        height: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+
+
+    header img{
+        position: relative;
+        width: 45px;
+        height: 45px;
+        margin-left: 5px;
+    }
+
+    nav ul li:hover{
+      transform: scale(1.0);
+      transition: all 0.5s ease;
+    }
+
+    .top-nav{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        position: absolute;
+        right: 0;
+        
+       
+    }
+
+    .top-nav img{
+        display: inline;
+    }
+
+
+
+
+
+
+
+    .heading{
+      background-color: rgb(240,239,239);
+    }
+
+ 
+
+  body{
+    background-image: none;
+    background-color: rgb(235, 235, 235);
+  }
+
+.glassy{
+  /* From https://css.glass */
+ backdrop-filter: none;
+ -webkit-backdrop-filter: none(9.7px);
+ }
+
+
+
+
+  }
+
+
+  @media only screen and (max-width: 517px){
+    #links img{
+        width: 60px;
+        height: 60px;
+        margin-left: 5px;
+        margin-right: 5px;
+      }
+
+    #links{
+        height: 100px;
+      }
+
+ 
+   }
+
+  @media only screen and (max-width: 470px){
+    /* udalosti pod 470 pixelov šírky */
+   
+    .mixInfo p {
+        font-size: 9px;
+        text-transform: uppercase;
+        line-height: 15px;
+        font-weight: bold;
+      }
+
+      .oneMix{
+        margin: 2px;
+
+      }
+
+   
+   }
+
+   @media only screen and (max-width: 416px){
+    #links img{
+        width: 50px;
+        height: 50px;
+      }
+
+    #links{
+        height: 100px;
+      }
+
+ 
+   }
+
+   @media only screen and (max-width: 350px){
+    #links img{
+        width: 50px;
+        height: 50px;
+        margin: 10px 20px;
+      }
+
+    #links{
+        height: 140px;
+      }
+
+
+ 
+   }
