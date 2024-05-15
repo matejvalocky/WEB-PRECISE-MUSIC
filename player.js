@@ -5,7 +5,7 @@
   const list = [
     {
       // url: "./download/mp3/Drum-and-Bass-2023-Mix-no5-by-Precise-Music-(mp3-192).mp3",
-      url: "https://drive.google.com/file/d/1K2BKYwfyDt7YYPO4DG9YhoEyTTwJcV2a/view?usp=sharing",
+      url: "https://drive.google.com/file/d/1M7zzTv0HZDMheP66Xlg0_NXim7SqqXa9/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass 2023 Mix #5",
       tracks: " 001 | Grafix & Flowidus - Submarine<br>002 | Delta Heavy - No Gravity<br>003 | Jack Mirror - With You (ft. flowanastasia)<br>004 | Kanine - Lost and Found<br>005 | Metrik - Abyss<br>006 | ShockOne - Ready To Go (ft. Bright Sparks)<br>007 | Freaks & Geeks - Function<br>008 | Mandidextrous & Tanukichi - Higher<br>009 | MK & Dom Dolla - Rhyme Dust (Dimension Remix)<br>010 | Fred V - Faded Blue (ft. Hybrid Minds & Lottie Jones)<br>011 | Mountain - Pegasus<br>012 | David Guetta, Becky Hill & Ella Henderson - Crazy What Love Can Do (Grafix Remix)<br>013 | C:rcle - Oscillate (ft. Gid Sedgwick)<br>014 | Alesso & John Newman - Call Your Name (Andromedik Remix)<br>015 | Andromedik - To The Dark (ft. MC Stretch)<br>016 | Dimension - DJ Turn It Up<br>017 | Dimension - Generator<br>018 | Dimension - Offender<br>019 | Kanine - Get Down<br>020 | Lee Mvtthews - Dice (ft. Rachel Leo)<br>021 | Metrik x ÆON:MODE - Awake<br>022 | S.P.Y - Complicated <br>023 | SIREN - Dark Nights (ft. Stuart Rowe)<br>024 | Solomon France - Sweet Kicks<br>025 | Supercurve - Frequency<br>026 | Tall Order - Underground<br>027 | Tantrum Desire - Bring It<br>028 | Technimatic - Sunburst<br>029 | Kove - So Much Love<br>030 | Natty Lou - Alpenglow (ft. Lottie Jones)<br>031 | Culture Shock - Alone (ft. Gracie Van Brunt)<br>032 | Junk Mail & Bugwell - Stronger<br>033 | Justin Hawkes - Heartleap<br>034 | Matrix & Futurebound & Synth System - Return To You (ft. Anna Simone)<br>035 | Metrik - Immortal<br>036 | Netsky & Hybrid Minds - Let Me Hold You<br>037 | Delta Heavy - Get Down Tonight (ft. Hayley May)<br>038 | Freaks & Geeks - Oxygen<br>039 | REAPER & Calivania - BLACK FIRES<br>040 | High Contrast - Can't Give You Up<br>041 | 1991 - Eternity (ft. Henry Dell)<br>042 | Ekko & Sidetrack - The Light (ft. Ruth Royall)<br>043 | Futurebound - Fall (ft. Dolly Rae)<br>044 | Krakota - Wanna Be Loved<br>045 | Metrik - We Are The Energy<br>046 | Sub Focus & Dimension - Ready To Fly<br>047 | Synergy - White Line<br>048 | Tisoki & Oliverse - Dream About You<br>049 | LOWES - Game of Love (Friction Remix)<br>050 | ShockOne - Heart On Fire (ft. Pauline Herr)<br>051 | Andromedik - With You<br>052 | Flowidus - Save Us (ft. Lauren L'aimant)<br>053 | Kings Of The Rollers - So Lost<br>054 | REPAIR - Obsessed<br>055 | Synergy - Freedom (ft. What So Not)<br>056 | D.O.D - So Much In Love (Sub Focus Remix)<br>057 | Lexurus - The Funk<br>058 | Lost Frequencies - The Feeling (Lost Frequencies & Andromedik Deluxe Mix)<br>059 | Bensley & Justin Hawkes - Don’t Be Scared<br>060 | Deep Notion - I Begged You<br>061 | Justin Hawkes - Better Than Gold (ft. Andrew Hellier) <br>062 | Delta Heavy x Jem Cooke - Heaven<br>063 | Friction & Poppy Baskcomb - The Answer<br>064 | Metrik - Fall To The Dust<br>065 | Wilkinson - Infinity (ft. ILIRA, iiola & Tom Cane)<br>",
@@ -15,7 +15,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-2023-mix-no5-by-precise-music-mp3-192"
     },
     {
-      url: "./download/mp3/Drum-and-Bass-2023-Mix-no4-by-Precise-Music-(mp3-192).mp3",
+      // url: "./download/mp3/Drum-and-Bass-2023-Mix-no4-by-Precise-Music-(mp3-192).mp3",
+      url: "https://drive.google.com/file/d/1MjwGpbYodz4Ogun17qwecyBZDsCEHGVC/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass 2023 Mix #4",
       tracks:"001 | Friction & JP Cooper - Dancing<br>002 | Dawn Wall - Legends<br>003 | Fliwo - Yehay<br>004 | Dawn Wall - Movies<br>005 | Leks - Vices<br>006 | Quadrant & Iris ft. Ill Truth - Is This Now<br>007 | Riya, Collette Warren & L Side - All For Something<br>008 | Monty - Ferns<br>009 | Switch Disco, Robert Miles - REACT<br>010 | ZeroZero - Bring The Heat<br>011 | Document One - Jazz Club<br>012 | Enei & Kasra - Take A Dive<br>013 | Foreign Concept - Mob Justice<br>014 | Monrroe Ft. Sydney - As I Fall<br>015 | Alix Perez & Eprom - Caligo (Original Mix)<br>016 | Annix - Whatever U Did<br>017 | Dawn Wall - Dead Priest<br>018 | DNMO x Wolfy Lights - Bombalaya<br>019 | Murdock & Ruth Royall - Cola<br>020 | Pola & Bryson & Emily Makis - Phoneline<br>021 | DJ Marky - Changing Moods<br>022 | Pola & Bryson - Tell You What I Did<br>023 | Fred V - Dive<br>024 | Fred V - Homesick<br>025 | Solomon France - On The Weekend<br>026 | Sub Focus - I Found You<br>027 | Zero T & Onj - Games You Play<br>" , 
@@ -25,7 +26,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-2023-mix-no4-by-precise-music-192-mp3"
     },
     {
-      url: "./download/mp3/Drum-and-Bass-2023-Mix-no3-by-Precise-Music-(mp3-192).mp3",
+      // url: "./download/mp3/Drum-and-Bass-2023-Mix-no3-by-Precise-Music-(mp3-192).mp3",
+      url: "https://drive.google.com/file/d/1OLrU9JoGsCldNgUvaxkNVwaZjxDA9heK/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass 2023 Mix #3",
       tracks: "001 - BCee & Charlotte Haining - Is It Real?<br>002 - EDAN_BERROW - Get On Down<br>003 - Untrue - The Secret Pub<br>004 - The Creatures - Keep Me Close<br>005 - KALOA - Enso<br>006 - gyrofield - Tech Flex VIP<br>007 - Hiraeth & Drumslave - Bullseye<br>008 - Hystatus - Umph<br>009 - Macca & Cnof - Rattle Dub<br>010 - IAMDOOMED - Bionic<br>011 - Dunk & Black Opps - Rolling Golden<br>012 - Formula - Switch Blade<br>013 - Resslek - Zoom In<br>014 - Resslek - Undgrnd<br>015 - Body Model - Darkest Magic<br>016 - Body Model - Test Pilot<br>017 - Alpha Rosa - Whatever You Do<br>018 - Unglued x Whiney x Lens - If You Like That<br>019 - Nectax - What Lies Ahead<br>020 - Azifm & Scout - Think About Me<br>", 
@@ -35,7 +37,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-2023-mix-no3-by-precise-music-192-mp3"
     },
     {
-      url: "./download/mp3/Drum-and-Bass-2023-Mix-no2-by-Precise-Music-(mp3-192).mp3",
+      // url: "./download/mp3/Drum-and-Bass-2023-Mix-no2-by-Precise-Music-(mp3-192).mp3",
+      url: "https://drive.google.com/file/d/10d98hPLkc-4-3jPnux_3MsfrBTv3mMwO/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass 2023 Mix #2",
       tracks: "001 | Break - Bury a Sound<br>002 | Xyde - Anachronistic<br>003 | DLR & Total Science - Back Track<br>004 | Bredren - Inferno (ft. T-Man)<br>005 | Kyrist & Revaux - Shinto<br>006 | SubMarine - Back Then<br>007 | Duskee & Sustance - Scum<br>008 | Exult & Silloh - From The Trunk<br>009 | K Motionz - Back Trackin (ft. Comma Dee) <br>010 | Molecular - Saga (Willers Remix)<br>011 | clÜ - Mobsta<br>012 | Sustance Ft. Strategy - Undercurrent<br>013 | DLR & Script - It Wasn't A Dream<br>014 | Ill Truth & Bluejay - Street Art<br>015 | Ill Truth - Flex<br>016 | Inja x ArchiTek - Atom Splitter<br>017 | L0G1N & Willers - Anti-Aircraft Seagulls<br>018 | Operate & Rizzle - Mindset (ft. Rider Shafique)<br>019 | Ninive - Escort<br>020 | Operate & Rizzle - Azula<br>021 | Azifm - All Crew (ft. Hound)<br>022 | Kasra - I Don't Know What The Future Brings<br>023 | Turno, tominthechamber & Haribo - Triad<br>",
@@ -46,7 +49,8 @@
     },
     { 
         
-        url: "./download/mp3/Drum-and-Bass-2023-Mix-no1-by-Precise-Music-(mp3-192).mp3",
+        // url: "./download/mp3/Drum-and-Bass-2023-Mix-no1-by-Precise-Music-(mp3-192).mp3",
+        url: "https://drive.google.com/file/d/1K2BKYwfyDt7YYPO4DG9YhoEyTTwJcV2a/view?usp=drive_link",
         author: "Precise Music",
         title: "Drum and Bass 2023 Mix #1",
         tracks: "0:00:00 | Black Barrel - Whatah Bang<br>0:03:17 | Dopplershift - Cradle of Humankind<br>0:07:39 | Akov - 'No More'<br>0:10:12 | Kyrist - Wreckage<br>0:13:50 | Black Barrel - Somebody Serious<br>0:15:18 | Break - Wait For You (ft. Lorna King)<br>0:18:58 | Vodkah - Severance<br>0:23:01 | Body Model - Test Pilot<br>0:25:35 | Noisia - Crank (Kasra Remix)<br>0:27:48 | Rueben - Spyware<br>0:32:13 | Trex & Eljay - God Damn Sound (Molecular Remix)<br>0:33:41 | Calyx - Feel The Sway<br>0:36:14 | Resnek - Conspiracy Theory<br>0:39:12 | EastColors - Toys<br>0:42:31 | MC Fava - Fly ft. Keeno<br>0:46:11 | Revaux - Follow Me<br>0:48:46 | Willers - Risky<br>0:51:20 | ZeroZero - A Bad Trip<br>0:54:17 | Zombie Cats & Waeys - Left Nothing<br>0:58:20 | Walk:r - Contour<br>",
@@ -57,7 +61,8 @@
     },
     {
         
-        url: "./download/mp3/DRUM-AND-BASS-DECEMBER-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        // url: "./download/mp3/DRUM-AND-BASS-DECEMBER-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        url: "https://drive.google.com/file/d/14e0biQxoyP24lVeR1JZtRS9klo9brBGN/view?usp=drive_link",
         author: "Precise Music",
         title: "Drum and Bass December Mix 2022",
         cover: "./images/covers/december-2022.jpg",
@@ -68,7 +73,8 @@
     },
     {
         
-        url: "./download/mp3/DRUM-AND-BASS-NOVEMBER-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        // url: "./download/mp3/DRUM-AND-BASS-NOVEMBER-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        url: "https://drive.google.com/file/d/1Y1v9lUYcwK35qKmptBRolOXtdIquuVhF/view?usp=drive_link",
         author: "Precise Music",
         title: "Drum and Bass November Mix 2022",
         cover: "./images/covers/november-2022.jpg",
@@ -79,7 +85,8 @@
     },
     {
         
-        url: "./download/mp3/DRUM-AND-BASS-OCTOBER-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        // url: "./download/mp3/DRUM-AND-BASS-OCTOBER-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        url: "https://drive.google.com/file/d/1nexJoFn6P7-qg3JbzIG5osgLtmMR1X5W/view?usp=drive_link",
         author: "Precise Music",
         title: "Drum and Bass October Mix 2022",
         cover: "./images/covers/october-2022.jpg",
@@ -90,7 +97,8 @@
     },
     {
         
-        url: "./download/mp3/DRUM-AND-BASS-SEPTEMBER-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        // url: "./download/mp3/DRUM-AND-BASS-SEPTEMBER-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        url: "https://drive.google.com/file/d/13gGulkqak89sPmwdFwhiluhQfCvcU1g3/view?usp=drive_link",
         author: "Precise Music",
         title: "Drum and Bass September Mix 2022",
         cover: "./images/covers/september-2022.jpg",
@@ -101,7 +109,8 @@
     },
     {
         
-        url:"./download/mp3/DRUM-AND-BASS-AUGUST-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        // url:"./download/mp3/DRUM-AND-BASS-AUGUST-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+        url: "https://drive.google.com/file/d/15dPqSohXeIr4ZUDEkPrBtgCF2M5v-hVu/view?usp=drive_link",
         author:   "Precise Music",
         title:    "Drum and Bass August Mix 2022",
         cover:    "./images/covers/august-2022.jpg",
@@ -113,7 +122,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-JULY-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-JULY-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1a5f4cXaD3D2PU-D7FuSw0eL5buY-GVFw/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass July Mix 2022",
       cover: "./images/covers/july-2022.jpg",
@@ -124,7 +134,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-JUNE-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-JUNE-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1xAaQbMfw0YrNDNKnjx1MhYIXyXUIZU7s/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass June Mix 2022",
       cover: "./images/covers/june-2022.jpg",
@@ -135,7 +146,8 @@
     },  
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-MAY-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-MAY-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1rNTqBGZq0_ZU6PQMg8zY2JtY0ENq3TnZ/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass May Mix 2022",
       cover: "./images/covers/may-2022.jpg",
@@ -146,7 +158,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-APRIL-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-APRIL-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1uWQ1ZMviFeGTvZuKm225EwmOJctYHPbO/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass April Mix 2022",
       cover: "./images/covers/april-2022.jpg",
@@ -157,7 +170,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-MARCH-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-MARCH-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1mWYpIKPF7LURg2wwSbBL6ZxoUJGB5rol/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass March Mix 2022",
       cover: "./images/covers/march-2022.jpg",
@@ -168,7 +182,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-FEBRUARY-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-FEBRUARY-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1fnYqPaQIswdKiWui5jsyJpuqu0TqRF5o/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass February Mix 2022",
       cover: "./images/covers/february-2022.jpg",
@@ -179,7 +194,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-JANUARY-MIX-2-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-JANUARY-MIX-2-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1KMkTMx78CuUEeZJbihGua7GGFK5tMh0X/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass January Mix #2 2022",
       cover: "./images/covers/january2-2022.jpg",
@@ -190,7 +206,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-JANUARY-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-JANUARY-MIX-2022-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1fQmgxYRdFYpRU4h2gDflWGLgiQYHoEL9/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass January Mix #1 2022",
       cover: "./images/covers/january-2022.jpg",
@@ -201,7 +218,8 @@
     },
     {
       
-      url: "./download/mp3/DRUM-AND-BASS-DECEMBER-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url: "./download/mp3/DRUM-AND-BASS-DECEMBER-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1tYjFoVJnb1Re1FZhZ-LV1W51VCEyoO_x/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass December Mix #2 2021",
       cover: "./images/covers/december-2-2021.jpg",
@@ -212,7 +230,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-DECEMBER-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-DECEMBER-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1CPGwvy9YP-iwUueULhUAfypMOvlz3adB/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass December Mix #1 2021",
       cover: "./images/covers/december-1-2021.jpg",
@@ -223,7 +242,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-NOVEMBER-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-NOVEMBER-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1XerhRhoW1Hl772GQ0AZBbIhvhTywfwch/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass November Mix #2 2021",
       cover: "./images/covers/november-2-2021.jpg",
@@ -234,7 +254,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-NOVEMBER-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-NOVEMBER-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1WLCH6bsvjieYA5fXlVgFLJ4ZwYJXcaKi/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass November Mix #1 2021",
       cover: "./images/covers/november-1-2021.jpg",
@@ -245,7 +266,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-OCTOBER-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-OCTOBER-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1ecWXQLA5oRNWln8T2_vsF8C3yUbtWcs3/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass October Mix #2 2021",
       cover: "./images/covers/october-2-2021.jpg",
@@ -256,7 +278,8 @@
     },
     {
       
-      url:"./download/mp3/DRUM-AND-BASS-OCTOBER-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-OCTOBER-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1zhRGIlypG2UBryypRvILkv9RNI4z2j2J/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass October Mix #1 2021",
       cover: "./images/covers/october-1-2021.jpg",
@@ -266,7 +289,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-october-mix-1-2021-mixed-by-pre"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-SEPTEMBER-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-SEPTEMBER-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1-_oGUcHfMvCcleiQN86HgH04AOoxM8xx/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass September #2 Mix 2021",
       cover: "./images/covers/september-2-2021.jpg",
@@ -276,7 +300,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-september-mix-2-2021-mixed-by-p"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-SEPTEMBER-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-SEPTEMBER-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1es9dcudh8Ih3J1Voz8ehDJGRiVSI8WGO/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass September #1 Mix 2021",
       cover: "./images/covers/september-1-2021.jpg",
@@ -286,7 +311,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-september-mix-2021-mixed-by-pre"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-AUGUST-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-AUGUST-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1AhsbQ-jY6mSbC_QfKr8ybf5Wt1z5tBZX/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass August #2 Mix 2021",
       cover: "./images/covers/august-2-2021.jpg",
@@ -296,7 +322,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-august-mix-2021-2-by-precise-mu"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-AUGUST-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-AUGUST-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1t_QXRB2npoPf34tCj7pSscW0TBhyJpiu/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass August #1 Mix 2021",
       cover: "./images/covers/august-1-2021.jpg",
@@ -306,7 +333,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-august-mix-2021-by-precise-musi"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-JULY-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-JULY-MIX-2-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1MlhnLTNy4ZYXlfHdFCZoEFxlXs-WPkYg/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass JULY #2 Mix 2021",
       cover: "./images/covers/july-2-2021.jpg",
@@ -316,7 +344,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-july-mix-2021-2-by-precise-musi"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-JULY-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-JULY-MIX-1-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1J5rR1fl5XrU4xQhW0ir55SSW840j-8rB/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass JULY #1 Mix 2021",
       cover: "./images/covers/july-1-2021.jpg",
@@ -326,7 +355,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-july-mix-2021-mixed-by-precise"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-JUNE-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-JUNE-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/14FgEbC_hUYJ-dXLZa42ZzLdRRey-iGoj/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass June Mix 2021",
       cover: "./images/covers/june-2021.jpg",
@@ -336,7 +366,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-june-mix-2021-mixed-by-precise"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-MAY-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-MAY-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1lNBE9ij2u8r4HZbOW0nw-4FvgZjtWj3F/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass May Mix 2021",
       cover: "./images/covers/may-2021.jpg",
@@ -346,7 +377,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-may-mix-2021-mixed-by-precise-m"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-APRIL-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-APRIL-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1EerPF7OrcE411HG1T_QzI_-9LO6LUiyM/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass April Mix 2021",
       cover: "./images/covers/april-2021.jpg",
@@ -356,7 +388,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-april-mix-2021-mixed-by-precise"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-MARCH-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-MARCH-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1zLzfQuUFoOfehrzZg2UjKVvAV1T-9ga4/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass March Mix 2021",
       cover: "./images/covers/march-2021.jpg",
@@ -366,7 +399,8 @@
       housemixes: "https://www.house-mixes.com/profile/PreciseMusic/drum-and-bass-march-mix-2021-mixed-by-precise"
     },
     {
-      url:"./download/mp3/DRUM-AND-BASS-JANUARY-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      // url:"./download/mp3/DRUM-AND-BASS-JANUARY-MIX-2021-MIXED-BY-PRECISE-MUSIC.mp3",
+      url: "https://drive.google.com/file/d/1zUcVJuzqw2p5_DdtWgZpDAsq9kSLQgJL/view?usp=drive_link",
       author: "Precise Music",
       title: "Drum and Bass January Mix 2021",
       cover: "./images/covers/january-2021.jpg",
