@@ -301,3 +301,16 @@ div > img {
 
 
   }
+
+
+  .music-bar{
+    display: none;
+  }
+
+  .music-order{
+    display: none;
+  }
+
+  .music-control{
+    display: none;
+  }
